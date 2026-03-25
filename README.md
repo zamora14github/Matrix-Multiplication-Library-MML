@@ -1,4 +1,4 @@
-# Matrix Multiplication Library
+# Matrix Multiplication Library (MML)
 
 The Matrix Multiplication Library is designed for use with Siemens S7-1500 PLCs, providing optimized matrix multiplication operations that significantly outperform standard library implementations.
 
