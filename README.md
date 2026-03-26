@@ -7,8 +7,7 @@ The Matrix Multiplication Library is designed for use with Siemens S7-1500 PLCs,
 The source code will be uploaded soon.
 
 
-📖 Citation
-
+## 📖 Citation
 If you use this code, or if MML is useful for your research, please cite:
 
 ```bibtex
